@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CircularProgressbarExampleApp/CircularProgressbarExampleApp.iml" filepath="$PROJECT_DIR$/CircularProgressbarExampleApp/CircularProgressbarExampleApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circleBar.iml" filepath="$PROJECT_DIR$/circleBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circular-progressbar/circular-progressbar.iml" filepath="$PROJECT_DIR$/circular-progressbar/circular-progressbar.iml" />
+    </modules>
+  </component>
+</project>
